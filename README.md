@@ -1,4 +1,4 @@
-# Netflix clone
+# Netflix clone.
 
 # output as a image
 ![Screenshot 2024-05-26 091037](https://github.com/Anmol-c0der/Netflix-clone/assets/142788624/5ade0b16-14d7-472f-a8d0-cd89707963c5)
